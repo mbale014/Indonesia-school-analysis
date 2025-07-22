@@ -1,0 +1,71 @@
+Provinsi,Sekolah,Siswa,Mengulang,Putus Sekolah,Kepala Sekolah & Guru,Tenaga Kependidikan,Rombel,Ruang Kelas,Status
+Prov. D.K.I. Jakarta,293,222930,0,181,9693,2209,6043,6228,Negeri
+Prov. Jawa Barat,1969,1113692,0,502,52541,11470,33594,38750,Negeri
+Prov. Jawa Tengah,1769,919373,0,405,50090,11550,29887,33242,Negeri
+Prov. D.I. Yogyakarta,214,92678,0,6,5461,1328,2959,3252,Negeri
+Prov. Jawa Timur,1729,829308,0,516,47839,11527,27071,31506,Negeri
+Prov. Aceh,897,160011,0,307,19266,4386,6114,9531,Negeri
+Prov. Sumatera Utara,1331,433519,0,666,30475,3724,14653,17620,Negeri
+Prov. Sumatera Barat,674,184026,0,506,15330,2782,6607,8468,Negeri
+Prov. Riau,855,206252,0,254,15257,2691,7204,9316,Negeri
+Prov. Jambi,557,102206,0,205,9717,1843,3899,5204,Negeri
+Prov. Sumatera Selatan,901,287828,0,260,20851,3934,9738,11123,Negeri
+Prov. Lampung,710,240771,0,103,16560,2794,8148,9954,Negeri
+Prov. Kalimantan Barat,1018,187216,0,265,12878,1478,6902,8098,Negeri
+Prov. Kalimantan Tengah,708,89891,0,185,7918,837,3712,4939,Negeri
+Prov. Kalimantan Selatan,522,99185,0,179,7786,1266,3780,5006,Negeri
+Prov. Kalimantan Timur,447,127778,0,110,8198,1711,4351,5005,Negeri
+Prov. Sulawesi Utara,474,80137,0,192,6517,725,3113,4203,Negeri
+Prov. Sulawesi Tengah,731,112116,0,362,9734,2273,4414,6291,Negeri
+Prov. Sulawesi Selatan,1265,295626,0,550,24602,5447,10888,14230,Negeri
+Prov. Sulawesi Tenggara,691,116819,0,212,11223,1498,4606,6397,Negeri
+Prov. Maluku,534,74124,0,116,7423,1108,2939,4282,Negeri
+Prov. Bali,272,160516,0,31,9233,2526,4902,4984,Negeri
+Prov. Nusa Tenggara Barat,605,136326,0,320,16136,3329,5071,6782,Negeri
+Prov. Nusa Tenggara Timur,1354,265042,0,572,21687,2888,9636,12661,Negeri
+Prov. Papua,507,103457,0,414,6417,687,3357,4167,Negeri
+Prov. Bengkulu,381,79778,0,77,6695,1207,2995,3846,Negeri
+Prov. Maluku Utara,363,46659,0,175,4803,631,1841,2528,Negeri
+Prov. Banten,573,268113,0,159,12349,2140,8006,9443,Negeri
+Prov. Kepulauan Bangka Belitung,161,53168,0,39,3029,985,1723,2060,Negeri
+Prov. Gorontalo,312,43670,0,159,3625,644,1797,2399,Negeri
+Prov. Kepulauan Riau,234,74328,0,21,4101,969,2298,2605,Negeri
+Prov. Papua Barat,229,36396,0,56,3123,276,1398,1714,Negeri
+Prov. Sulawesi Barat,318,51302,0,131,4658,1410,1994,2744,Negeri
+Prov. Kalimantan Utara,153,29669,0,40,2279,375,1109,1293,Negeri
+Luar Negeri,46,4607,0,63,179,8,212,343,Negeri
+Prov. D.K.I. Jakarta,784,138926,0,155,8946,1779,5096,7123,Swasta
+Prov. Jawa Barat,3715,687467,0,1116,37914,6056,23955,29531,Swasta
+Prov. Jawa Tengah,1613,281513,0,216,18766,3737,10660,13693,Swasta
+Prov. D.I. Yogyakarta,234,41147,0,10,3256,834,1597,1948,Swasta
+Prov. Jawa Timur,3136,410719,0,1922,29529,3794,16340,20022,Swasta
+Prov. Aceh,316,44534,0,69,3145,481,1705,2028,Swasta
+Prov. Sumatera Utara,1315,221370,0,618,12541,1395,7917,9943,Swasta
+Prov. Sumatera Barat,171,23579,0,24,2041,330,965,1339,Swasta
+Prov. Riau,375,54858,0,229,4050,484,2107,2760,Swasta
+Prov. Jambi,136,20213,0,36,1245,176,763,946,Swasta
+Prov. Sumatera Selatan,481,71500,0,181,4547,841,2694,3446,Swasta
+Prov. Lampung,702,88530,0,188,6325,786,3519,4585,Swasta
+Prov. Kalimantan Barat,333,43635,0,157,2485,292,1653,2145,Swasta
+Prov. Kalimantan Tengah,137,17901,0,33,1226,106,708,852,Swasta
+Prov. Kalimantan Selatan,97,13730,0,69,1067,155,550,670,Swasta
+Prov. Kalimantan Timur,221,32664,0,22,2057,366,1283,1644,Swasta
+Prov. Sulawesi Utara,253,27122,0,52,1844,147,1155,1532,Swasta
+Prov. Sulawesi Tengah,129,11513,0,92,992,189,529,689,Swasta
+Prov. Sulawesi Selatan,429,54269,0,215,3981,576,2203,2881,Swasta
+Prov. Sulawesi Tenggara,83,8009,0,23,706,73,359,442,Swasta
+Prov. Maluku,140,17686,0,36,1484,134,706,1086,Swasta
+Prov. Bali,136,30536,0,4,1900,477,1033,1486,Swasta
+Prov. Nusa Tenggara Barat,384,36298,0,257,3432,282,1586,1870,Swasta
+Prov. Nusa Tenggara Timur,428,80180,0,355,5441,756,2913,4047,Swasta
+Prov. Papua,214,35577,0,140,2013,229,1209,1698,Swasta
+Prov. Bengkulu,58,7344,0,12,602,82,297,361,Swasta
+Prov. Maluku Utara,139,13687,0,18,1103,108,580,751,Swasta
+Prov. Banten,994,169761,0,295,9432,1275,6028,7919,Swasta
+Prov. Kepulauan Bangka Belitung,62,8768,0,8,573,153,330,498,Swasta
+Prov. Gorontalo,26,2589,0,8,201,25,114,156,Swasta
+Prov. Kepulauan Riau,165,22383,0,8,1637,250,892,1159,Swasta
+Prov. Papua Barat,94,13195,0,60,1036,95,515,645,Swasta
+Prov. Sulawesi Barat,59,5200,0,24,410,64,232,287,Swasta
+Prov. Kalimantan Utara,33,3613,0,44,301,52,151,199,Swasta
+Luar Negeri,13,1423,0,7,58,0,54,99,Swasta
