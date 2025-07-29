@@ -1,16 +1,16 @@
-# Education Infrastructure & Dropout Trends in Kalimantan (2021–2024)
+# Education efficiency analysis in Kalimantan (2021–2024)
 
 ## Overview
 
-This project explores the state of primary to upper secondary education in Kalimantan, Indonesia, from 2021 to 2024. Using publicly available data from Kemendikbud, we analyzed dropout trends, student-teacher ratios, and student-facility distributions across the five Kalimantan provinces.
+This project explores the state of primary to high school education in Kalimantan, Indonesia, from 2021 to 2024. Using publicly available data from Kemendikbud (data.go.id), analyzed dropout trends, student-teacher ratios, and student-facility distributions from five Kalimantan provinces.
 
 ## Problem Statement
 
-Despite national progress in education, remote regions like Kalimantan still face inequality in access and quality. Dropout rates, classroom shortages, and overstretched teaching staff reflect systemic problems. This project aims to identify key patterns and bottlenecks to inform potential policy or resource decisions.
+Despite national progress in education, remote regions like Kalimantan still face difference in access and quality. Dropout rates, classroom shortages, and over teaching staff reflect systemic problems. This project aims to identify key patterns and bottlenecks to inform potential policy or resource decisions.
 
 ## Dataset
 
-* **Source**: [Opendata kemdikbu](data.go.id)
+* **Source**: [Kemendikbud](data.go.id)
 * **Years Covered**: 2021–2024
 * **Levels**: SD, SMP, SMA/SMK
 * **Regions**: Kalimantan Barat, Kalimantan Timur, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Utara
@@ -19,7 +19,7 @@ Despite national progress in education, remote regions like Kalimantan still fac
 
 * How have dropout rates changed over the years?
 * What are the student-teacher ratios across provinces?
-* Is there a correlation between facility shortages and dropout rates?
+* What are student-facility ratios over the years?
 
 ## Insights
 
@@ -41,7 +41,7 @@ education-analysis-kalimantan/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-│   └── indonesian-school-analysis-notebook.ipynb
+│   └── kalimantan-education-notebook.ipynb
 ├── images/
 │   └── *.png
 ├── README.md
