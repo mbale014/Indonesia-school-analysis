@@ -10,7 +10,7 @@ Despite national progress in education, remote regions like Kalimantan still fac
 
 ## Dataset
 
-* **Source**: [Kemendikbud](data.go.id)
+* **Source**: [Kemendikbud](https://data.go.id/)
 * **Years Covered**: 2021–2024
 * **Levels**: SD, SMP, SMA/SMK
 * **Regions**: Kalimantan Barat, Kalimantan Timur, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Utara
