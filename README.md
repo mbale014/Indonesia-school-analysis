@@ -1,39 +1,40 @@
-# Education efficiency analysis in Kalimantan (2021–2024)
+# Analysis efisiensi pendidikan di wilayah Kalimantan (2021–2024)
 
-## Overview
+## Ringkasan
 
-This project explores the state of primary to high school education in Kalimantan, Indonesia, from 2021 to 2024. Using publicly available data from Kemendikbud (data.go.id), analyzed dropout trends, student-teacher ratios, and student-facility distributions from five Kalimantan provinces.
+Proyek ini mengeksplorasi kondisi pendidikan dari tingkat SD hingga SMA/SMK di Kalimantan, Indonesia, dari tahun 2021 - 2024. Dengan menggunakan data publik dari Kemendikbud, kami menganalisis tren putus sekolah, rasio siswa-guru, dan distribusi siswa terhadap fasilitas pendidikan di lima provinsi Kalimantan.
 
-## Problem Statement
+## Permasalahan
 
-Despite national progress in education, remote regions like Kalimantan still face difference in access and quality. Dropout rates, classroom shortages, and over teaching staff reflect systemic problems. This project aims to identify key patterns and bottlenecks to inform potential policy or resource decisions.
+Meskipun secara nasional pendidikan Indonesia terus berkembang, daerah terpencil seperti Kalimantan masih menghadapi ketimpangan dalam akses dan kualitas pendidikan. Angka putus sekolah yang tinggi, kekurangan ruang kelas, dan beban kerja guru yang tinggi mencerminkan permasalahan sistemik. Proyek ini bertujuan untuk mengidentifikasi pola dan hambatan utama untuk mendukung pengambilan keputusan kebijakan dan distribusi sumber daya.
 
 ## Dataset
 
-* **Source**: [Kemendikbud](https://data.go.id/)
-* **Years Covered**: 2021–2024
-* **Levels**: SD, SMP, SMA/SMK
-* **Regions**: Kalimantan Barat, Kalimantan Timur, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Utara
+* **Sumber**: [Kemendikbud](https://data.go.id/)
+* **Tahun cakupan**: 2021–2024
+* **Jenjang**: SD, SMP, SMA/SMK
+* **Wilayah**: Kalimantan Barat, Kalimantan Timur, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Utara
 
-## Key Questions
+## Rumusan masalah
 
-* How have dropout rates changed over the years?
-* What are the student-teacher ratios across provinces?
-* What are student-facility ratios over the years?
+* 1. Berapa jumlah siswa dan guru per jenjang dan tahun?
+* 2. Berapa rasio siswa terhadap guru?
+* 3. Bagaimana tren putus sekolah dari tahun ke tahun ?
+* 4. Bagaimana rasio fasilitas (siswa per rombel/ ruang kelas) ?
 
 ## Insights
 
-* **Dropout Trends**: Kalimantan Barat had the highest spike in dropouts in 2022, especially at the SD (Primary school) level.
-* **Teacher Shortage**: Some provinces had >25 students per teacher, higher than the recommended national average of 20:1 ([UNESCO, 2023](https://uis.unesco.org/)).
-* **Facility Ratios**: Classroom and rombel (study group) shortages are most severe in Kalimantan Utara and Kalimantan Tengah, contributing to overcrowding.
+* **Tren Putus Sekolah**: Kalimantan Barat menunjukkan lonjakan tertinggi pada angka putus sekolah di tahun 2022, terutama di tingkat SD
+* **Kekurangan Guru**: Beberapa provinsi memiliki rasio lebih dari 25 siswa per guru, melampaui standar nasional ideal yaitu 20:1([UNESCO, 2023](https://uis.unesco.org/)).
+* **Rasio Fasilitas**: Kekurangan ruang kelas dan rombel paling parah terjadi di Kalimantan Utara dan Kalimantan Tengah, yang berkontribusi pada kondisi ruang belajar yang terlalu padat.
 
-## Visualizations
+## Visualisasi
 
-* Dropout trends over time
-* Student-teacher ratio bar plots on each province
-* Student-facility ratios
+* Tren putus sekolah dari tahun ke tahun
+* Diagram batang rasio siswa-guru per provinsi
+* Scatter plot perbandingan rasio fasilitas dan angka putus sekolah
 
-## Folder Structure
+## Struktur folder
 
 ```
 education-analysis-kalimantan/
@@ -48,11 +49,14 @@ education-analysis-kalimantan/
 ├── requirements.txt
 ```
 
-## Future Work
+## Saran untuk kedepan
 
-* Build predictive models for dropout risk
-* Correlate with socioeconomic indicators
-* Conduct time series forecasting
+* Membangun model prediktif untuk risiko putus sekolah
+* Menggabungkan indikator sosial ekonomi (contoh: tingkat kemiskinan)
+* Melakukan prediksi tren menggunakan time series
+
+## File pendukung
+* Presentasi : [PPT analysis](https://docs.google.com/presentation/d/11Mpj3KCsQFXLyUWrQPRuGPorq-0WmNeL/edit?usp=sharing&ouid=112814808339704803161&rtpof=true&sd=true)
 
 ## Credits
 
